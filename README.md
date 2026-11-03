@@ -1,14 +1,14 @@
 # HASHASHIN
 
-A Python-based multi-tool environment for Termux.
+Python Multi-Tool Environment for Termux.
 
 ## Features
-- Cybersecurity Utilities
+- Cybersecurity Tools
 - Network Tools
 - System Information
-- Basic File Scanner
 - Password Generator
 - Hash Generator
+- Basic File Scanner
 
 ## Requirements
 - Android
@@ -19,5 +19,5 @@ A Python-based multi-tool environment for Termux.
 python main.py
 
 ## Disclaimer
-Educational and authorized use only.
-The built-in file scanner is heuristic and is not a replacement for a full antivirus.
+Educational use only.
+The file scanner is a basic heuristic scanner.
